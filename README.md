@@ -23,5 +23,7 @@
    * Lock constraints alternate continuously between rows and columns.
 3. **Buffer Management:** Your sequence must be extracted before filling the 6-slot buffer or running out of time!
 
----to visit: https://shinsishifa.github.io/cyber-hack-terminal/
+---
+
+[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit%20Live%20Site-cyan?style=for-the-badge&logo=rocket&logoColor=black)]( https://shinsishifa.github.io/cyber-hack-terminal/)
 
